@@ -1,5 +1,5 @@
 class Solution:
-    #直接搜索
+    #直接搜索暴力
     def strStr(self, haystack: str, needle: str) -> int:
         ni = 0
         hi = 0
